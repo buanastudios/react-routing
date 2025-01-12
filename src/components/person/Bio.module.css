@@ -1,0 +1,13 @@
+.bio {
+  margin-bottom: 3rem;
+}
+
+.bio > h2 {
+  font-size: x-large;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.bio > p {
+  line-height: 1.3;
+}
