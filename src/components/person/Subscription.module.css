@@ -1,0 +1,15 @@
+.title {
+  font-size: x-large;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.subtitle {
+  font-size: larger;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.subscription-detail {
+  line-height: 1.5;
+}
